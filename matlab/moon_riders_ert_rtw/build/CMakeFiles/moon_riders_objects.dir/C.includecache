@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Roger/Documents/stm32_intern/moon_riders_ert_rtw/moon_riders.c
+moon_riders.h
+C:/Users/Roger/Documents/stm32_intern/moon_riders_ert_rtw/moon_riders.h
+rtwtypes.h
+C:/Users/Roger/Documents/stm32_intern/moon_riders_ert_rtw/rtwtypes.h
+
+C:/Users/Roger/Documents/stm32_intern/moon_riders_ert_rtw/moon_riders.h
+rtwtypes.h
+C:/Users/Roger/Documents/stm32_intern/moon_riders_ert_rtw/rtwtypes.h
+moon_riders_types.h
+C:/Users/Roger/Documents/stm32_intern/moon_riders_ert_rtw/moon_riders_types.h
+
+C:/Users/Roger/Documents/stm32_intern/moon_riders_ert_rtw/moon_riders_types.h
+
+C:/Users/Roger/Documents/stm32_intern/moon_riders_ert_rtw/rtwtypes.h
+

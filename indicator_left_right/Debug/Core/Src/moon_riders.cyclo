@@ -1,0 +1,3 @@
+../Core/Src/moon_riders.c:39:6:moon_riders_step	16
+../Core/Src/moon_riders.c:153:6:moon_riders_initialize	1
+../Core/Src/moon_riders.c:159:6:moon_riders_terminate	1

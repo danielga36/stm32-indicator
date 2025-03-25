@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/Roger/Documents/stm32_intern/moon_riders_ert_rtw/build",
+  "command": "C:/Strawberry/c/bin/gcc.exe -DALLOCATIONFCN=0 -DCLASSIC_INTERFACE=0 -DHAVESTDIO -DINTEGER_CODE=0 -DMAT_FILE=0 -DMODEL=moon_riders -DMODEL_HAS_DYNAMICALLY_LOADED_SFCNS=0 -DMT=0 -DMULTI_INSTANCE_CODE=0 -DNCSTATES=0 -DNUMST=1 -DONESTEPFCN=1 -DTERMFCN=1 -DTID01EQ=0 @CMakeFiles/moon_riders_objects.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles/moon_riders_objects.dir/moon_riders.c.obj -c C:/Users/Roger/Documents/stm32_intern/moon_riders_ert_rtw/moon_riders.c",
+  "file": "C:/Users/Roger/Documents/stm32_intern/moon_riders_ert_rtw/moon_riders.c"
+},
+{
+  "directory": "C:/Users/Roger/Documents/stm32_intern/moon_riders_ert_rtw/build",
+  "command": "C:/Strawberry/c/bin/gcc.exe -DALLOCATIONFCN=0 -DCLASSIC_INTERFACE=0 -DHAVESTDIO -DINTEGER_CODE=0 -DMAT_FILE=0 -DMODEL=moon_riders -DMODEL_HAS_DYNAMICALLY_LOADED_SFCNS=0 -DMT=0 -DMULTI_INSTANCE_CODE=0 -DNCSTATES=0 -DNUMST=1 -DONESTEPFCN=1 -DTERMFCN=1 -DTID01EQ=0 @CMakeFiles/moon_riders.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles/moon_riders.dir/ert_main.c.obj -c C:/Users/Roger/Documents/stm32_intern/moon_riders_ert_rtw/ert_main.c",
+  "file": "C:/Users/Roger/Documents/stm32_intern/moon_riders_ert_rtw/ert_main.c"
+}
+]
